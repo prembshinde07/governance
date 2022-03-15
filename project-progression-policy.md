@@ -14,12 +14,19 @@ Project progression - movement from one stage to another - allows projects to pa
 
 Some ways a project can benefit by becoming a Consortium-recognized project include:
 
-1. Recognition: A Consortium project is recognized as meeting the goals of the Consortium, namely protecting data-in-use.
-2. Community: The Consortium is fostering a community of like-minded members.
-3. Participation: Participate and lead in the ongoing development of the confidential computing paradigm. All projects are assigned a [Mentor](project-mentors.md) to assist in the integration of your project to the Consortium and growth beyond that.
-4. Project Support: The Consortium can provide limited funds to support project communication and infrastructure costs for CI/CD.
-5. Outreach: Part of the Consortium's mission is to promote the use of confidential computing with various communities and hence its recognized projects, to deliver that outcome.
-6. Internships: The [TAC has committed](https://lists.confidentialcomputing.io/g/main/files/TAC/Meetings/2021/09-Sept/TAC%20Minutes%202021-09-09.pdf) to fund one intern per CCC project that commits to the list of "Mentor Responsibilities" on the [Outreachy mentor page](https://www.outreachy.org/mentor/).
+From the Feb. 24 TAC agenda slides, a list is:
+CCC projects have access to a number of benefits:
+
+1. Up to $7,500 in budget for hardware and software per year.
+2. Funding for one Outreachy intern.
+3. TAC mentor assigned to the project.
+4. Collaboration tools (contact operations@confidentialcomputing.io):
+5. Zoom
+6. Domain registration and renewals
+7. Mailing lists
+8. YouTube playlists
+9. Optional security scanning
+10. LFX tools (https://lfx.linuxfoundation.org/).
 
 ## II. Project Proposal Process
 
